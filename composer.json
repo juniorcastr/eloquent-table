@@ -3,10 +3,10 @@
     "description": "An HTML table generator for Laravel Collection",
     "type": "library",
     "require": {
-        "php": ">=7.1.3 ",
-        "illuminate/support": "5.8.*| ~6.0| ~7.0| ~8.0",
-        "illuminate/database": "5.8.*| ~6.0| ~7.0| ~8.0",
-        "illuminate/pagination": "5.8.*| ~6.0| ~7.0| ~8.0"
+        "php": ">=7.1.3",
+        "illuminate/support": "^9.0",
+        "illuminate/database": "^9.0",
+        "illuminate/pagination": "^9.0"
     },
     "autoload": {
         "psr-4": {
@@ -17,7 +17,7 @@
         {
             "name": "Felipe Pimenta",
             "email": "felipe.meneses@uemanet.uema.br"
-        },        
+        },
         {
             "name": "Pedro Fellipe",
             "email": "pedro.melo@uemanet.uema.br"
